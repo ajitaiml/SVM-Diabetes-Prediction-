@@ -43,9 +43,4 @@ This project is a machine learning web application that predicts whether a perso
 
 ---
 
-## 🛠️ Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/diabetes-prediction-svm.git
-cd diabetes-prediction-svm
